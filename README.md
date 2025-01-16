@@ -1,4 +1,13 @@
-# invop-final
 # Proyecto: Optimización Lineal
 
-Este proyecto resuelve problemas de programación lineal (primal y dual) utilizando **Pyomo**, **Plotly** y **NetworkX**. Incluye un notebook que calcula el beneficio máximo de cultivos y analiza los precios sombra para identificar restricciones activas. Para ejecutarlo: clona este repositorio, instala las dependencias con `pip install -r requirements.txt`, y abre el notebook con `jupyter notebook finalinvop.ipynb`. Obtendrás resultados óptimos y gráficos interactivos en 3D para visualizar la solución.
+Este proyecto aborda problemas de programación lineal (primal y dual) utilizando herramientas avanzadas como **Pyomo**, **Plotly** y **NetworkX**. Se centra en maximizar beneficios agrícolas y analizar precios sombra para identificar restricciones críticas en la solución óptima.
+
+---
+
+## Instrucciones de Uso
+
+1. Clona este repositorio y accede al directorio.
+2. Instala las dependencias especificadas en `requirements.txt`.
+3. Ejecuta el archivo `finalinvop.ipynb` en un entorno Jupyter.
+
+---
